@@ -1,4 +1,4 @@
--- Optimized Rival UD-safe ESP + aggressive aimbot
+-- Optimized Universal UD-safe ESP + aggressive aimbot
 -- Features:
 --  • Optimized Box + Skeleton ESP (shallow part caching + projection cache)
 --  • FOV circle + watermark
